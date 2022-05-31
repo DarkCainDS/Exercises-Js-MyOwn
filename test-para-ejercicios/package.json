@@ -1,0 +1,14 @@
+{
+  "name": "test-para-ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego Romero",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
