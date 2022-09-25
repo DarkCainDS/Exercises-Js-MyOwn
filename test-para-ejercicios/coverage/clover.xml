@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1653873144742" clover="3.2.0">
-  <project timestamp="1653873144743" name="All files">
-    <metrics statements="97" coveredstatements="97" conditionals="14" coveredconditionals="14" methods="7" coveredmethods="7" elements="118" coveredelements="118" complexity="0" loc="97" ncloc="97" packages="7" files="7" classes="7"/>
+<coverage generated="1662527660240" clover="3.2.0">
+  <project timestamp="1662527660240" name="All files">
+    <metrics statements="121" coveredstatements="121" conditionals="18" coveredconditionals="18" methods="8" coveredmethods="8" elements="147" coveredelements="147" complexity="0" loc="121" ncloc="121" packages="8" files="8" classes="8"/>
     <package name="ejercicio2">
       <metrics statements="22" coveredstatements="22" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="ejercicio2.js" path="C:\Users\diego\Documents\Programacion\JavaScript\ejercicios JS (Practica solo)\test-para-ejercicios\ejercicio2\ejercicio2.js">
@@ -139,6 +139,36 @@
         <line num="11" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="ejercicioleet5">
+      <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="ejercicioleet5.js" path="C:\Users\diego\Documents\Programacion\JavaScript\ejercicios JS (Practica solo)\test-para-ejercicios\ejercicioleet5\ejercicioleet5.js">
+        <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
       </file>
     </package>
   </project>
